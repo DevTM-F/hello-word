@@ -1,2 +1,4 @@
 # hello-word
-Just another repository
+Hello,
+
+My name is Felipe and i am learning about GitHub.
